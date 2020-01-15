@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280px" height="237px" viewBox="0 0 1280 237" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>divider-contrast</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="1.11022302e-14%" y1="51.7141418%" x2="100%" y2="48.2858582%" id="linearGradient-1">
+            <stop stop-color="#BD0000" offset="0%"></stop>
+            <stop stop-color="#FF0000" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="1280" height="237"></rect>
+    </defs>
+    <g id="-----→-→-2.3.3.-Digital-Design-👩🏼‍💻" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2.3.3.2-Colors" transform="translate(0.000000, -1597.000000)">
+            <g id="divider-contrast" transform="translate(0.000000, 1597.000000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <g id="Mask">
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                    <use fill-opacity="0.1" fill="#000000" xlink:href="#path-2"></use>
+                </g>
+                <g id="Group-13" mask="url(#mask-3)" font-family="VodafoneRg-Regular, Vodafone Rg" font-weight="normal">
+                    <g transform="translate(258.000000, 32.000000)">
+                        <g id="Text" stroke-width="1" fill-rule="evenodd" transform="translate(0.000000, 42.000000)" font-size="18" line-spacing="22">
+                            <text id="Important-informatio" fill="#FFFFFF">
+                                <tspan x="19.373" y="16">Important information is generally relayed through text. We provide details about Vodafone products and </tspan>
+                                <tspan x="1.976" y="38">services, and many pages have navigation elements and accordions to allow the user to control when content </tspan>
+                                <tspan x="31.991" y="60">is displayed to them. We need to have sufficient color contrast for the text to be legible. Therefore, we </tspan>
+                                <tspan x="38.255" y="82">recommend that all text which acts as a label for a navigation element or provides the user with key </tspan>
+                                <tspan x="10.103" y="104">information about a product or service should allow sufficient contrast between the colour it is presented in </tspan>
+                                <tspan x="314.798" y="126">and its background. </tspan>
+                            </text>
+                        </g>
+                        <text id="Contrast" font-size="30" line-spacing="34">
+                            <tspan x="334.21" y="27" fill="#FFFFFF">Contrast</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

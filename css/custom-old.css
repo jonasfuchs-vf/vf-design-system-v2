@@ -1,0 +1,179 @@
+/**
+ * Copyright (c) 2017-present, Facebook, Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+ 
+/* your custom css */
+
+
+@font-face {
+      font-family:'Vodafone';
+      src:url("/fonts/VodafoneRg.eot");
+      src:url("/fonts/VodafoneRg.woff2") format("woff2"),url("/fonts/VodafoneRg.woff") format("woff");
+      font-weight:400;
+      font-style:normal;
+      font-display:swap
+    }
+      
+@font-face{
+          font-family:'Vodafone';
+          src:url("/fonts/vodafonergbd-webfont.eot");
+          src:url("/fonts/vodafonergbd-webfont.woff2") format("woff2"),url("/fonts/vodafonergbd-webfont.woff") format("woff");
+          font-weight:700;font-style:normal;font-display:swap
+        }
+          
+@font-face{
+              font-family:'Vodafone';
+              src:url("/fonts/VodafoneLt.eot");
+              src:url("/fonts/VodafoneLt.woff2") format("woff2"),url("/fonts/VodafoneLt.woff") format("woff");
+              font-weight:100;
+              font-style:normal;
+              font-display:swap
+            }
+
+body {font-family: 'Vodafone', Arial, sans-serif; }
+
+
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
+
+.fixedHeaderContainer {
+    background: #333;
+    color: #fff!important;
+}
+
+
+
+}
+
+@media only screen and (min-width: 1024px) {
+
+.fixedHeaderContainer {
+    background: #333;
+    color: #fff!important;
+}
+
+
+
+}
+
+@media only screen and (max-width: 1023px) {
+
+.fixedHeaderContainer {
+    background: #333;
+    color: #fff!important;
+}
+
+
+}
+
+@media only screen and (min-width: 1400px) {
+
+
+    h1, .h1-style-red {
+        font-weight: 400;
+        font-size: 2.143rem;
+        line-height: 1.125;
+        color: #e60000;
+        margin-bottom: 16px;}
+
+        h2, .h2-style-dark {
+            font-weight: 100;
+            font-size: 1.429rem;
+            line-height: 1.25;
+            color: #333333;
+            margin-bottom: 16px;
+        }
+
+        h3, .h3-style {
+            font-weight: 700;
+            font-size: 1.429rem;
+            line-height: 1.25;
+            color: #333333;
+            margin-bottom: 16px;
+        }
+
+        h4, .h4-style {
+            font-weight: 700;
+            font-size: 1.143rem;
+            line-height: 1.5;
+            color: #333333;
+            margin-bottom: 16px;
+        }
+
+        h5, .h5-style {
+            font-weight: 700;
+            font-size: 1.143rem;
+            line-height: 1.25;
+            color: #333333;
+            margin-bottom: 16px;
+        }
+
+        p, .text {
+            font-size: 1.143rem;
+            line-height: 1.5;
+            color: #333333;
+        }
+
+        .onPageNav ul li {
+            font-size: 14px;
+            line-height: 18px;
+            padding-bottom: 4px;
+        }   
+
+
+        .toc .toggleNav .navGroup .navGroupCategoryTitle {
+            color: #393939;
+            font-size: 18px;
+            font-weight: 700;
+            line-height: 1em;
+            margin-bottom: 4px;
+            margin-top: 0;
+        }
+
+        .toc .toggleNav ul li a {
+            border: none;
+            color: #717171;
+            display: block;
+            font-size: 14px;
+            padding: 2px 0;
+            transition: color 0.3s;
+        }
+
+        .toc .toggleNav .navGroup .navGroupSubcategoryTitle {
+            color: #393939;
+            font-size: 14px;
+            font-weight: 700;
+            line-height: 1.5;
+            margin-bottom: 0;
+            margin-top: 0;
+            padding: 4px 0;
+        }
+
+.fixedHeaderContainer {
+   
+    color: #fff!important}
+
+
+}
+
+@media only screen and (min-width: 1500px) {
+
+.fixedHeaderContainer {
+    background: #333;
+    color: #fff!important;
+}
+
+
+h1, .h1-style {
+    font-weight: 400;
+    font-size: 2.143rem;
+    line-height: 1.125;
+    color: #e60000;
+    margin-bottom: 16px;
+}
+
+
+}
