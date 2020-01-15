@@ -36,8 +36,8 @@
 
 @font-face {
   font-family:'Vodafone';
-  src:url("https://www.vodafone.de/brix/assets/fonts/VodafoneRg.eot");
-  src:url("https://www.vodafone.de/brix/assets/fonts/VodafoneRg.woff2") format("woff2"),url("https://www.vodafone.de/brix/assets/fonts/VodafoneRg.woff") format("woff");
+  src:url("https://www.vodafone.de/simplicity/assets/css/fonts/VodafoneRg.eot");
+  src:url("https://www.vodafone.de/simplicity/assets/css/fonts/VodafoneLt.woff2") format("woff2"),url("https://www.vodafone.de/simplicity/assets/css/fonts/VodafoneRg.woff") format("woff");
   font-weight:400;
   font-style:normal;
   font-display:swap
@@ -45,15 +45,15 @@
   
 @font-face{
       font-family:'Vodafone';
-      src:url("https://www.vodafone.de/brix/assets/fonts/vodafonergbd-webfont.eot");
-      src:url("https://www.vodafone.de/brix/assets/fonts/vodafonergbd-webfont.woff2") format("woff2"),url("https://www.vodafone.de/brix/assets/fonts/vodafonergbd-webfont.woff") format("woff");
+      src:url("https://www.vodafone.de/simplicity/assets/css/fonts/vodafonergbd-webfont.eot");
+      src:url("https://www.vodafone.de/simplicity/assets/css/fonts/vodafonergbd-webfont.woff2") format("woff2"),url("https://www.vodafone.de/simplicity/assets/css/fonts/vodafonergbd-webfont.woff") format("woff");
       font-weight:700;font-style:normal;font-display:swap
     }
       
 @font-face{
           font-family:'Vodafone';
-          src:url("https://www.vodafone.de/brix/assets/fonts/VodafoneLt.eot");
-          src:url("https://www.vodafone.de/brix/assets/fonts/VodafoneLt.woff2") format("woff2"),url("https://www.vodafone.de/brix/assets/fonts/VodafoneLt.woff") format("woff");
+          src:url("https://www.vodafone.de/simplicity/assets/css/fonts/VodafoneLt.eot");
+          src:url("https://www.vodafone.de/simplicity/assets/css/fonts/VodafoneLt.woff2") format("woff2"),url("https://www.vodafone.de/simplicity/assets/css/fonts/VodafoneLt.woff") format("woff");
           font-weight:100;
           font-style:normal;
           font-display:swap
