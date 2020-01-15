@@ -34,6 +34,8 @@
   padding: 0 var(--ifm-pre-padding);
 }
 
+
+
 @font-face {
   font-family:'Vodafone';
   src:url("https://www.vodafone.de/simplicity/assets/css/fonts/VodafoneRg.eot");
@@ -234,9 +236,20 @@ p, .text {
 .valign-middle {vertical-align: middle;}
 
 div.card-teaser a {
-  display: block ;
+  
+  display: block;
+  
+
   height: 100% ;
 }
+
+div.card-teaser a:hover {
+background-color: var(--ifm-neutral-grey-50);
+transition: all ease 0.3s;
+}
+
+
+
 
 a.link-teaser {text-decoration: none;}
 
@@ -245,7 +258,11 @@ a.link-teaser {text-decoration: none;}
 
 .button__text {vertical-align: middle;}
 
-
+a.link-teaser:hover {
+  text-decoration: none;
+  background-color: var(--ifm-neutral-grey-50);
+transition: all ease 0.3s;
+}
 
 .footer.footer--dark {
   background-color: var(--ifm-neutral-grey-600);
