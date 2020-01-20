@@ -5,10 +5,8 @@
     <desc>Created with Sketch.</desc>
     <defs>
         <path d="M4,0 L204,0 C206.209139,-4.05812251e-16 208,1.790861 208,4 L208,292 C208,294.209139 206.209139,296 204,296 L4,296 C1.790861,296 2.705415e-16,294.209139 0,292 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z" id="path-1"></path>
-        <path d="M1014,92 L1214,92 C1216.20914,92 1218,93.790861 1218,96 L1218,385 C1218,387.209139 1216.20914,389 1214,389 L1014,389 C1011.79086,389 1010,387.209139 1010,385 L1010,96 C1010,93.790861 1011.79086,92 1014,92 Z" id="path-3"></path>
-        <path d="M4,0 L204,0 C206.209139,-4.05812251e-16 208,1.790861 208,4 L208,293 C208,295.209139 206.209139,297 204,297 L4,297 C1.790861,297 2.705415e-16,295.209139 0,293 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z" id="path-5"></path>
-        <rect id="path-7" x="857" y="64" width="208" height="296" rx="4"></rect>
-        <rect id="path-9" x="0" y="0" width="208" height="296" rx="4"></rect>
+        <path d="M4,0 L204,0 C206.209139,-4.05812251e-16 208,1.790861 208,4 L208,293 C208,295.209139 206.209139,297 204,297 L4,297 C1.790861,297 2.705415e-16,295.209139 0,293 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z" id="path-3"></path>
+        <rect id="path-5" x="0" y="0" width="208" height="296" rx="4"></rect>
     </defs>
     <g id="hero-design-principles" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <path d="M1855.45204,117.194622 C1753.85229,79.9051755 1577.07871,180.827435 1465.18924,200.827435 C1353.29978,220.827435 1291.69806,170.937173 1153.87602,152.827435 C1016.05397,134.717696 924.635104,212.085247 760.76774,152.827435 C596.900375,93.5696222 534.285725,154.827435 509.980959,262.827435 C485.676193,370.827435 575.557784,448.827435 700.578912,429.569622 C825.600041,410.31181 886.043574,337.327435 1065.47368,332.827435 C1244.90378,328.327435 1257.0367,412.946619 1352.81067,397.827435 C1448.58464,382.70825 1458.07799,304.254281 1588.36412,305.827435 C1718.65024,307.400589 1758.28188,480.68544 1855.45204,398.827435 C1952.62219,316.969429 1957.05178,154.484069 1855.45204,117.194622 Z" id="Path-4" fill="#F4F4F4" opacity="0.600000024" transform="translate(1218.000000, 270.749195) scale(1, -1) translate(-1218.000000, -270.749195) "></path>
@@ -60,106 +58,96 @@
             <rect id="Rectangle-Copy-24" fill="#E60000" x="102" y="147" width="2" height="120"></rect>
             <rect id="Rectangle-Copy-23" fill="#E60000" x="154" y="147" width="2" height="59"></rect>
         </g>
-        <mask id="mask-4" fill="white">
-            <use xlink:href="#path-3"></use>
-        </mask>
-        <path stroke="#E60000" stroke-width="2" d="M1014,93 C1012.34315,93 1011,94.3431458 1011,96 L1011,385 C1011,386.656854 1012.34315,388 1014,388 L1214,388 C1215.65685,388 1217,386.656854 1217,385 L1217,96 C1217,94.3431458 1215.65685,93 1214,93 L1014,93 Z"></path>
-        <g id="Call-to-Action" mask="url(#mask-4)">
-            <g transform="translate(1010.000000, 92.000000)">
-                <mask id="mask-6" fill="white">
-                    <use xlink:href="#path-5"></use>
-                </mask>
-                <path stroke="#E60000" stroke-width="2" d="M4,1 C2.34314575,1 1,2.34314575 1,4 L1,293 C1,294.656854 2.34314575,296 4,296 L204,296 C205.656854,296 207,294.656854 207,293 L207,4 C207,2.34314575 205.656854,1 204,1 L4,1 Z"></path>
-                <rect id="Rectangle-Copy" stroke="none" fill="#E60000" fill-rule="evenodd" mask="url(#mask-6)" x="12" y="12" width="45" height="2" rx="1"></rect>
-                <rect id="Rectangle-Copy-4" stroke="none" fill="#E60000" fill-rule="evenodd" mask="url(#mask-6)" x="73" y="12" width="33" height="2" rx="1"></rect>
-                <rect id="Rectangle-Copy-6" stroke="none" fill="#E60000" fill-rule="evenodd" mask="url(#mask-6)" x="122" y="12" width="33" height="2" rx="1"></rect>
-                <rect id="Rectangle-Copy-7" stroke="none" fill="#E60000" fill-rule="evenodd" mask="url(#mask-6)" x="173" y="12" width="25" height="2" rx="1"></rect>
-                <rect id="Rectangle" stroke="none" fill="#E60000" fill-rule="evenodd" mask="url(#mask-6)" x="2" y="22" width="204" height="2"></rect>
-                <rect id="Rectangle-Copy-46" stroke="none" fill="#E60000" fill-rule="evenodd" mask="url(#mask-6)" x="2" y="85" width="204" height="2"></rect>
-                <g id="OutlnTarifTile" stroke="none" fill="none" mask="url(#mask-6)" fill-rule="evenodd" stroke-width="1">
-                    <g transform="translate(10.000000, 109.000000)" id="Group">
-                        <g>
-                            <rect id="Rectangle-Copy-5" stroke="#E60000" stroke-width="2" fill="#FFFFFF" x="1" y="1" width="53" height="52" rx="4"></rect>
-                            <rect id="Rectangle-Copy-19" stroke="#E60000" stroke-width="2" fill="#E60000" x="5" y="65" width="45" height="9" rx="2"></rect>
-                            <rect id="Rectangle-Copy" fill="#E60000" x="7" y="16" width="42" height="2" rx="1"></rect>
-                            <rect id="Rectangle-Copy-2" fill="#E60000" x="7" y="26" width="42" height="2" rx="1"></rect>
-                            <rect id="Rectangle-Copy-3" fill="#E60000" x="7" y="36" width="42" height="2" rx="1"></rect>
-                        </g>
+        <path d="M1014,93 C1012.34315,93 1011,94.3431458 1011,96 L1011,385 C1011,386.656854 1012.34315,388 1014,388 L1214,388 C1215.65685,388 1217,386.656854 1217,385 L1217,96 C1217,94.3431458 1215.65685,93 1214,93 L1014,93 Z" id="Mask-Copy-3" stroke="#E60000" stroke-width="2" fill="#FFFFFF"></path>
+        <g id="Call-to-Action" transform="translate(1010.000000, 92.000000)">
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-3"></use>
+            </mask>
+            <path stroke="#E60000" stroke-width="2" d="M4,1 C2.34314575,1 1,2.34314575 1,4 L1,293 C1,294.656854 2.34314575,296 4,296 L204,296 C205.656854,296 207,294.656854 207,293 L207,4 C207,2.34314575 205.656854,1 204,1 L4,1 Z"></path>
+            <rect id="Rectangle-Copy" fill="#E60000" mask="url(#mask-4)" x="12" y="12" width="45" height="2" rx="1"></rect>
+            <rect id="Rectangle-Copy-4" fill="#E60000" mask="url(#mask-4)" x="73" y="12" width="33" height="2" rx="1"></rect>
+            <rect id="Rectangle-Copy-6" fill="#E60000" mask="url(#mask-4)" x="122" y="12" width="33" height="2" rx="1"></rect>
+            <rect id="Rectangle-Copy-7" fill="#E60000" mask="url(#mask-4)" x="173" y="12" width="25" height="2" rx="1"></rect>
+            <rect id="Rectangle" fill="#E60000" mask="url(#mask-4)" x="2" y="22" width="204" height="2"></rect>
+            <rect id="Rectangle-Copy-46" fill="#E60000" mask="url(#mask-4)" x="2" y="85" width="204" height="2"></rect>
+            <g id="OutlnTarifTile" mask="url(#mask-4)">
+                <g transform="translate(10.000000, 109.000000)" id="Group">
+                    <g>
+                        <rect id="Rectangle-Copy-5" stroke="#E60000" stroke-width="2" fill="#FFFFFF" x="1" y="1" width="53" height="52" rx="4"></rect>
+                        <rect id="Rectangle-Copy-19" stroke="#E60000" stroke-width="2" fill="#E60000" x="5" y="65" width="45" height="9" rx="2"></rect>
+                        <rect id="Rectangle-Copy" fill="#E60000" x="7" y="16" width="42" height="2" rx="1"></rect>
+                        <rect id="Rectangle-Copy-2" fill="#E60000" x="7" y="26" width="42" height="2" rx="1"></rect>
+                        <rect id="Rectangle-Copy-3" fill="#E60000" x="7" y="36" width="42" height="2" rx="1"></rect>
                     </g>
                 </g>
-                <g id="OutlnTarifTile" stroke="none" fill="none" mask="url(#mask-6)" fill-rule="evenodd" stroke-width="1">
-                    <g transform="translate(76.500000, 109.000000)" id="Group">
-                        <g>
-                            <rect id="Rectangle-Copy-5" stroke="#E60000" stroke-width="2" fill="#FFFFFF" x="1" y="1" width="53" height="52" rx="4"></rect>
-                            <rect id="Rectangle-Copy-19" stroke="#E60000" stroke-width="2" fill="#E60000" x="5" y="65" width="45" height="9" rx="2"></rect>
-                            <rect id="Rectangle-Copy" fill="#E60000" x="7" y="16" width="42" height="2" rx="1"></rect>
-                            <rect id="Rectangle-Copy-2" fill="#E60000" x="7" y="26" width="42" height="2" rx="1"></rect>
-                            <rect id="Rectangle-Copy-3" fill="#E60000" x="7" y="36" width="42" height="2" rx="1"></rect>
-                        </g>
-                    </g>
-                </g>
-                <g id="OutlnTarifTile" stroke="none" fill="none" mask="url(#mask-6)" fill-rule="evenodd" stroke-width="1">
-                    <g transform="translate(143.000000, 109.000000)" id="Group">
-                        <g>
-                            <rect id="Rectangle-Copy-5" stroke="#E60000" stroke-width="2" fill="#FFFFFF" x="1" y="1" width="53" height="52" rx="4"></rect>
-                            <rect id="Rectangle-Copy-19" stroke="#E60000" stroke-width="2" fill="#E60000" x="5" y="65" width="45" height="9" rx="2"></rect>
-                            <rect id="Rectangle-Copy" fill="#E60000" x="7" y="16" width="42" height="2" rx="1"></rect>
-                            <rect id="Rectangle-Copy-2" fill="#E60000" x="7" y="26" width="42" height="2" rx="1"></rect>
-                            <rect id="Rectangle-Copy-3" fill="#E60000" x="7" y="36" width="42" height="2" rx="1"></rect>
-                        </g>
-                    </g>
-                </g>
-                <polygon id="Line-2" stroke="#E60000" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="square" mask="url(#mask-6)" transform="translate(121.605263, 192.500000) rotate(-120.000000) translate(-121.605263, -192.500000) " points="115.210526 197.473684 101 197.473684 101 187.526316 115.210526 187.526316 115.210526 179 142.210526 192.5 115.210526 206"></polygon>
-                <rect id="Rectangle" stroke="#E60000" stroke-width="2" fill="#FFFFFF" fill-rule="evenodd" x="11" y="212" width="186" height="48" rx="4"></rect>
-                <rect id="Rectangle-Copy-5" stroke="#E60000" stroke-width="2" fill="#FFFFFF" fill-rule="evenodd" x="11" y="208" width="74" height="56" rx="4"></rect>
-                <rect id="Rectangle-Copy" stroke="none" fill="#E60000" fill-rule="evenodd" x="93" y="225" width="95" height="2" rx="1"></rect>
-                <rect id="Rectangle-Copy-2" stroke="none" fill="#E60000" fill-rule="evenodd" x="93" y="235" width="95" height="2" rx="1"></rect>
-                <rect id="Rectangle-Copy-3" stroke="none" fill="#E60000" fill-rule="evenodd" x="93" y="245" width="95" height="2" rx="1"></rect>
-                <rect id="Rectangle-Copy-35" stroke="#E60000" stroke-width="2" fill="none" x="14" y="60" width="38" height="9" rx="2"></rect>
             </g>
+            <g id="OutlnTarifTile" mask="url(#mask-4)">
+                <g transform="translate(76.500000, 109.000000)" id="Group">
+                    <g>
+                        <rect id="Rectangle-Copy-5" stroke="#E60000" stroke-width="2" fill="#FFFFFF" x="1" y="1" width="53" height="52" rx="4"></rect>
+                        <rect id="Rectangle-Copy-19" stroke="#E60000" stroke-width="2" fill="#E60000" x="5" y="65" width="45" height="9" rx="2"></rect>
+                        <rect id="Rectangle-Copy" fill="#E60000" x="7" y="16" width="42" height="2" rx="1"></rect>
+                        <rect id="Rectangle-Copy-2" fill="#E60000" x="7" y="26" width="42" height="2" rx="1"></rect>
+                        <rect id="Rectangle-Copy-3" fill="#E60000" x="7" y="36" width="42" height="2" rx="1"></rect>
+                    </g>
+                </g>
+            </g>
+            <g id="OutlnTarifTile" mask="url(#mask-4)">
+                <g transform="translate(143.000000, 109.000000)" id="Group">
+                    <g>
+                        <rect id="Rectangle-Copy-5" stroke="#E60000" stroke-width="2" fill="#FFFFFF" x="1" y="1" width="53" height="52" rx="4"></rect>
+                        <rect id="Rectangle-Copy-19" stroke="#E60000" stroke-width="2" fill="#E60000" x="5" y="65" width="45" height="9" rx="2"></rect>
+                        <rect id="Rectangle-Copy" fill="#E60000" x="7" y="16" width="42" height="2" rx="1"></rect>
+                        <rect id="Rectangle-Copy-2" fill="#E60000" x="7" y="26" width="42" height="2" rx="1"></rect>
+                        <rect id="Rectangle-Copy-3" fill="#E60000" x="7" y="36" width="42" height="2" rx="1"></rect>
+                    </g>
+                </g>
+            </g>
+            <polygon id="Line-2" stroke="#E60000" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="square" mask="url(#mask-4)" transform="translate(121.605263, 192.500000) rotate(-120.000000) translate(-121.605263, -192.500000) " points="115.210526 197.473684 101 197.473684 101 187.526316 115.210526 187.526316 115.210526 179 142.210526 192.5 115.210526 206"></polygon>
+            <rect id="Rectangle" stroke="#E60000" stroke-width="2" fill="#FFFFFF" x="11" y="212" width="186" height="48" rx="4"></rect>
+            <rect id="Rectangle-Copy-5" stroke="#E60000" stroke-width="2" fill="#FFFFFF" x="11" y="208" width="74" height="56" rx="4"></rect>
+            <rect id="Rectangle-Copy" fill="#E60000" x="93" y="225" width="95" height="2" rx="1"></rect>
+            <rect id="Rectangle-Copy-2" fill="#E60000" x="93" y="235" width="95" height="2" rx="1"></rect>
+            <rect id="Rectangle-Copy-3" fill="#E60000" x="93" y="245" width="95" height="2" rx="1"></rect>
+            <rect id="Rectangle-Copy-35" stroke="#E60000" stroke-width="2" x="14" y="60" width="38" height="9" rx="2"></rect>
         </g>
-        <mask id="mask-8" fill="white">
-            <use xlink:href="#path-7"></use>
-        </mask>
-        <rect stroke="#E60000" stroke-width="2" x="858" y="65" width="206" height="294" rx="4"></rect>
-        <g id="Information" mask="url(#mask-8)">
-            <g transform="translate(857.000000, 64.000000)">
-                <mask id="mask-10" fill="white">
-                    <use xlink:href="#path-9"></use>
-                </mask>
-                <rect stroke="#E60000" stroke-width="2" x="1" y="1" width="206" height="294" rx="4"></rect>
-                <rect id="Rectangle-Copy" stroke="none" fill="#E60000" fill-rule="evenodd" mask="url(#mask-10)" x="12" y="12" width="45" height="2" rx="1"></rect>
-                <rect id="Rectangle-Copy-4" stroke="none" fill="#E60000" fill-rule="evenodd" mask="url(#mask-10)" x="73" y="12" width="33" height="2" rx="1"></rect>
-                <rect id="Rectangle-Copy-6" stroke="none" fill="#E60000" fill-rule="evenodd" mask="url(#mask-10)" x="122" y="12" width="33" height="2" rx="1"></rect>
-                <rect id="Rectangle-Copy-7" stroke="none" fill="#E60000" fill-rule="evenodd" mask="url(#mask-10)" x="173" y="12" width="25" height="2" rx="1"></rect>
-                <rect id="Rectangle" stroke="none" fill="#E60000" fill-rule="evenodd" mask="url(#mask-10)" x="2" y="22" width="204" height="2"></rect>
-                <rect id="Rectangle-Copy-5" stroke="#E60000" stroke-width="2" fill="#FFFFFF" fill-rule="evenodd" x="41" y="190" width="128" height="82" rx="4"></rect>
-                <rect id="Rectangle-Copy-17" stroke="none" fill="#E60000" fill-rule="evenodd" x="58" y="205" width="95" height="2" rx="1"></rect>
-                <rect id="Rectangle-Copy-41" stroke="none" fill="#E60000" fill-rule="evenodd" x="58" y="215" width="95" height="2" rx="1"></rect>
-                <rect id="Rectangle-Copy-42" stroke="none" fill="#E60000" fill-rule="evenodd" x="58" y="225" width="95" height="2" rx="1"></rect>
-                <rect id="Rectangle-Copy-43" stroke="none" fill="#E60000" fill-rule="evenodd" x="58" y="235" width="95" height="2" rx="1"></rect>
-                <rect id="Rectangle-Copy-44" stroke="none" fill="#E60000" fill-rule="evenodd" x="58" y="245" width="95" height="2" rx="1"></rect>
-                <rect id="Rectangle-Copy-45" stroke="none" fill="#E60000" fill-rule="evenodd" x="58" y="255" width="95" height="2" rx="1"></rect>
-                <rect id="Rectangle-Copy-38" stroke="#E60000" stroke-width="2" fill="#FFFFFF" fill-rule="evenodd" x="41" y="130" width="128" height="10" rx="4"></rect>
-                <rect id="Rectangle-Copy-39" stroke="#E60000" stroke-width="2" fill="#FFFFFF" fill-rule="evenodd" x="41" y="146" width="128" height="10" rx="4"></rect>
-                <rect id="Rectangle-Copy-40" stroke="#E60000" stroke-width="2" fill="#FFFFFF" fill-rule="evenodd" x="41" y="162" width="128" height="10" rx="4"></rect>
-                <g id="Group-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(40.000000, 36.000000)">
-                    <rect id="Rectangle-Copy-9" fill="#E60000" x="43" y="0" width="85" height="2" rx="1"></rect>
-                    <rect id="Rectangle-Copy-16" fill="#E60000" x="0" y="70" width="128" height="2" rx="1"></rect>
-                    <rect id="Rectangle-Copy-12" fill="#E60000" x="0" y="0" width="35" height="2" rx="1"></rect>
-                    <rect id="Rectangle-Copy-8" fill="#E60000" x="0" y="10" width="95" height="2" rx="1"></rect>
-                    <rect id="Rectangle-Copy-17" fill="#E60000" x="0" y="80" width="95" height="2" rx="1"></rect>
-                    <rect id="Rectangle-Copy-11" fill="#E60000" x="103" y="10" width="25" height="2" rx="1"></rect>
-                    <rect id="Rectangle-Copy-18" fill="#E60000" x="103" y="80" width="25" height="2" rx="1"></rect>
-                </g>
-                <g id="Liste" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(65.000000, 60.000000)">
-                    <rect id="Rectangle-Copy-13" fill="#E60000" x="13" y="2" width="65" height="2" rx="1"></rect>
-                    <rect id="Rectangle-Copy-14" fill="#E60000" x="13" y="14" width="65" height="2" rx="1"></rect>
-                    <rect id="Rectangle-Copy-15" fill="#E60000" x="13" y="26" width="65" height="2" rx="1"></rect>
-                    <circle id="Oval" stroke="#E60000" stroke-width="2" cx="3" cy="3" r="3"></circle>
-                    <circle id="Oval-Copy" stroke="#E60000" stroke-width="2" cx="3" cy="15" r="3"></circle>
-                    <circle id="Oval-Copy-2" stroke="#E60000" stroke-width="2" cx="3" cy="27" r="3"></circle>
-                </g>
+        <rect id="Mask-Copy-2" stroke="#E60000" stroke-width="2" fill="#FFFFFF" x="858" y="65" width="206" height="294" rx="4"></rect>
+        <g id="Information" transform="translate(857.000000, 64.000000)">
+            <mask id="mask-6" fill="white">
+                <use xlink:href="#path-5"></use>
+            </mask>
+            <rect stroke="#E60000" stroke-width="2" x="1" y="1" width="206" height="294" rx="4"></rect>
+            <rect id="Rectangle-Copy" fill="#E60000" mask="url(#mask-6)" x="12" y="12" width="45" height="2" rx="1"></rect>
+            <rect id="Rectangle-Copy-4" fill="#E60000" mask="url(#mask-6)" x="73" y="12" width="33" height="2" rx="1"></rect>
+            <rect id="Rectangle-Copy-6" fill="#E60000" mask="url(#mask-6)" x="122" y="12" width="33" height="2" rx="1"></rect>
+            <rect id="Rectangle-Copy-7" fill="#E60000" mask="url(#mask-6)" x="173" y="12" width="25" height="2" rx="1"></rect>
+            <rect id="Rectangle" fill="#E60000" mask="url(#mask-6)" x="2" y="22" width="204" height="2"></rect>
+            <rect id="Rectangle-Copy-5" stroke="#E60000" stroke-width="2" fill="#FFFFFF" x="41" y="190" width="128" height="82" rx="4"></rect>
+            <rect id="Rectangle-Copy-17" fill="#E60000" x="58" y="205" width="95" height="2" rx="1"></rect>
+            <rect id="Rectangle-Copy-41" fill="#E60000" x="58" y="215" width="95" height="2" rx="1"></rect>
+            <rect id="Rectangle-Copy-42" fill="#E60000" x="58" y="225" width="95" height="2" rx="1"></rect>
+            <rect id="Rectangle-Copy-43" fill="#E60000" x="58" y="235" width="95" height="2" rx="1"></rect>
+            <rect id="Rectangle-Copy-44" fill="#E60000" x="58" y="245" width="95" height="2" rx="1"></rect>
+            <rect id="Rectangle-Copy-45" fill="#E60000" x="58" y="255" width="95" height="2" rx="1"></rect>
+            <rect id="Rectangle-Copy-38" stroke="#E60000" stroke-width="2" fill="#FFFFFF" x="41" y="130" width="128" height="10" rx="4"></rect>
+            <rect id="Rectangle-Copy-39" stroke="#E60000" stroke-width="2" fill="#FFFFFF" x="41" y="146" width="128" height="10" rx="4"></rect>
+            <rect id="Rectangle-Copy-40" stroke="#E60000" stroke-width="2" fill="#FFFFFF" x="41" y="162" width="128" height="10" rx="4"></rect>
+            <g id="Group-3" transform="translate(40.000000, 36.000000)" fill="#E60000">
+                <rect id="Rectangle-Copy-9" x="43" y="0" width="85" height="2" rx="1"></rect>
+                <rect id="Rectangle-Copy-16" x="0" y="70" width="128" height="2" rx="1"></rect>
+                <rect id="Rectangle-Copy-12" x="0" y="0" width="35" height="2" rx="1"></rect>
+                <rect id="Rectangle-Copy-8" x="0" y="10" width="95" height="2" rx="1"></rect>
+                <rect id="Rectangle-Copy-17" x="0" y="80" width="95" height="2" rx="1"></rect>
+                <rect id="Rectangle-Copy-11" x="103" y="10" width="25" height="2" rx="1"></rect>
+                <rect id="Rectangle-Copy-18" x="103" y="80" width="25" height="2" rx="1"></rect>
+            </g>
+            <g id="Liste" transform="translate(65.000000, 60.000000)">
+                <rect id="Rectangle-Copy-13" fill="#E60000" x="13" y="2" width="65" height="2" rx="1"></rect>
+                <rect id="Rectangle-Copy-14" fill="#E60000" x="13" y="14" width="65" height="2" rx="1"></rect>
+                <rect id="Rectangle-Copy-15" fill="#E60000" x="13" y="26" width="65" height="2" rx="1"></rect>
+                <circle id="Oval" stroke="#E60000" stroke-width="2" cx="3" cy="3" r="3"></circle>
+                <circle id="Oval-Copy" stroke="#E60000" stroke-width="2" cx="3" cy="15" r="3"></circle>
+                <circle id="Oval-Copy-2" stroke="#E60000" stroke-width="2" cx="3" cy="27" r="3"></circle>
             </g>
         </g>
     </g>

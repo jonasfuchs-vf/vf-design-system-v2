@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="192px" height="192px" viewBox="0 0 192 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>code-hero</title>
+    <desc>Created with Sketch.</desc>
+    <g id="code-hero" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IC-doc-mini-1-Copy" transform="translate(39.000000, 13.000000)">
+            <g id="Group" transform="translate(0.888889, 0.833333)" stroke="#4A4D4E" stroke-width="4">
+                <path d="M110.333333,40.2728716 L72.2271284,2.16666667 L11.3111109,2.16666667 C6.23009133,2.16666667 2.11111111,6.28564688 2.11111111,11.3666665 L2.11111111,151.688889 C2.11111111,156.769909 6.23009133,160.888889 11.3111109,160.888889 L101.133334,160.888889 C106.214353,160.888889 110.333333,156.769909 110.333333,151.688889 L110.333333,40.2728716 Z" id="Rectangle"></path>
+                <path d="M72.9444444,4 L72.9444444,37.6666667 C72.9444444,39.990865 74.8285795,41.875 77.1527778,41.875 L110.819444,41.875" id="Shape"></path>
+            </g>
+            <g id="Group-2" transform="translate(23.333333, 55.333333)"></g>
+            <g id="IC-HTML" transform="translate(9.305556, 41.305556)" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.91999987">
+                <g id="Group-4" transform="translate(8.837500, 30.440277)">
+                    <polyline id="Stroke-1" stroke="#666666" points="21.8094767 30.6857634 0.206699302 16.9493428 21.8094767 5.15520825"></polyline>
+                    <polyline id="Stroke-2" stroke="#666666" points="55.1955873 30.6857634 76.7983647 16.9493428 55.1955873 5.15520825"></polyline>
+                    <line x1="46.3580874" y1="0.245486107" x2="30.6469766" y2="33.6315966" id="Stroke-3" stroke="#E60000"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
