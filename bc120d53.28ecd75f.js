@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[51],{140:function(s){s.exports=JSON.parse('{"allTagsPath":"/vf-design-system-v2/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/vf-design-system-v2/blog/tags/docusaurus"}')}}]);

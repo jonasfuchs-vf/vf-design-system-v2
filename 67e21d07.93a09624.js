@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[27],{117:function(s){s.exports=JSON.parse('{"allTagsPath":"/vf-design-system-v2/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/vf-design-system-v2/blog/tags/hola"}')}}]);
