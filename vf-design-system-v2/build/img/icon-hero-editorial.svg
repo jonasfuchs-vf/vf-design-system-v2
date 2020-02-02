@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="192px" height="192px" viewBox="0 0 192 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>editorial-hero</title>
+    <desc>Created with Sketch.</desc>
+    <g id="editorial-hero" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="edit-mid">
+            <line x1="124.29" y1="39.21" x2="152.39" y2="67.63" id="2eb30cfe-c8c3-4781-99cd-8c3e485b0575" stroke="#E60000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></line>
+            <path d="M152.39,67.63 L167.84,52.18 C175.65,44.38 176.06,31.55 168.25,23.76 C160.344401,15.957227 147.635599,15.957227 139.73,23.76 L124.29,39.21" id="6fac94bd-5ffc-455c-93cc-ee114041007e" stroke="#666666" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <polyline id="4b60d1de-ceea-4a2a-8b05-dda89c24cd3a" stroke="#666666" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="152.4 67.63 56.02 164.51 17.99 174.01 27.5 135.99 124.29 39.21"></polyline>
+            <rect id="Rectangle" x="0" y="0" width="192" height="192"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="448px" height="214px" viewBox="0 0 448 214" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>color-rule-5-do</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="448" height="213"></rect>
+        <filter x="-4.3%" y="-36.4%" width="108.6%" height="172.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204709353 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-4" x="0" y="0" width="51" height="22"></rect>
+        <filter x="-2.9%" y="-2.3%" width="103.9%" height="104.5%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="-1" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-6" cx="6.24822348" cy="6" r="6"></circle>
+    </defs>
+    <g id="-----→-→-2.3.3.-Digital-Design-👩🏼‍💻" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2.3.3.2-Colors" transform="translate(-176.000000, -3448.000000)">
+            <g id="color-rule-5-do" transform="translate(176.000000, 3448.004089)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#EBEBEB" xlink:href="#path-1"></use>
+                <g id="Group-5" mask="url(#mask-2)">
+                    <g transform="translate(151.000000, 19.995911)">
+                        <rect id="Rectangle" stroke="none" fill="#E60000" x="0" y="0" width="146" height="40"></rect>
+                        <rect id="Rectangle-Copy-32" stroke="none" fill="#333333" x="0" y="141.995911" width="146" height="24"></rect>
+                        <rect id="Rectangle-Copy-31" stroke="none" fill="#FFFFFF" x="0" y="41.9959112" width="146" height="98"></rect>
+                        <rect id="Rectangle-Copy-33" stroke="none" fill="#FFFFFF" x="26" y="15" width="94" height="3"></rect>
+                        <rect id="Rectangle-Copy-35" stroke="none" fill="#E60000" x="38" y="46.9959112" width="69" height="3"></rect>
+                        <rect id="Rectangle" stroke="none" fill="#EBEBEB" x="23" y="56" width="47" height="19"></rect>
+                        <rect id="Rectangle-Copy-39" stroke="none" fill="#EBEBEB" x="76" y="56" width="47" height="19"></rect>
+                        <rect id="Rectangle-Copy-43" stroke="none" fill="#007C92" x="90" y="72.9959112" width="20" height="3"></rect>
+                        <rect id="Rectangle-Copy-34" stroke="none" fill="#FFFFFF" x="26" y="21.9959112" width="53" height="3"></rect>
+                        <rect id="Rectangle-Copy-44" stroke="none" fill="#820000" x="0" y="103.995911" width="146" height="16"></rect>
+                        <rect id="Rectangle-Copy-36" stroke="none" fill="#333333" x="23" y="79" width="47" height="3"></rect>
+                        <rect id="Rectangle-Copy-45" stroke="none" fill="#333333" x="23" y="124.995911" width="89" height="3"></rect>
+                        <rect id="Rectangle-Copy-40" stroke="none" fill="#333333" x="76" y="79" width="47" height="3"></rect>
+                        <rect id="Rectangle-Copy-37" stroke="none" fill="#333333" x="32" y="86" width="30" height="3"></rect>
+                        <rect id="Rectangle-Copy-46" stroke="none" fill="#333333" x="23" y="131.995911" width="57" height="3"></rect>
+                        <rect id="Rectangle-Copy-41" stroke="none" fill="#333333" x="85" y="86" width="30" height="3"></rect>
+                        <rect id="Rectangle-Copy-38" stroke="#333333" stroke-width="1" fill="#FFFFFF" x="37" y="93" width="20" height="5"></rect>
+                        <rect id="Rectangle-Copy-42" stroke="#333333" stroke-width="1" fill="#FFFFFF" x="90" y="93" width="20" height="5"></rect>
+                    </g>
+                </g>
+                <g id="label-color-left-$color-brand-100" mask="url(#mask-2)">
+                    <g transform="translate(247.000000, 57.495911)">
+                        <g filter="url(#filter-3)">
+                            <g id="label-color-left-$color-brand-50-copy">
+                                <g>
+                                    <rect id="Rectangle" fill="#000000" x="24" y="0" width="112" height="22"></rect>
+                                    <g id="Group" transform="translate(136.000000, 0.000000)">
+                                        <g id="Rectangle">
+                                            <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                                            <use fill="#000000" fill-rule="evenodd" xlink:href="#path-4"></use>
+                                        </g>
+                                        <text id="Opacity" font-family="VodafoneRg-Bold, Vodafone Rg" font-size="12" font-weight="bold" fill="#FFFFFF">
+                                            <tspan x="20.2426407" y="15">100%</tspan>
+                                        </text>
+                                        <g id="Opacity-icon" transform="translate(3.994417, 5.000000)">
+                                            <mask id="mask-7" fill="white">
+                                                <use xlink:href="#path-6"></use>
+                                            </mask>
+                                            <use id="Oval-Copy-2" fill="#FFFFFF" xlink:href="#path-6"></use>
+                                            <line x1="-0.494417202" y1="7.5" x2="7.5055828" y2="-0.5" id="Line-2" stroke="#EBEBEB" stroke-width="0.5" stroke-linecap="square" mask="url(#mask-7)"></line>
+                                            <line x1="-1.63375446" y1="10.5898558" x2="9.45610135" y2="-0.5" id="Line-2-Copy-2" stroke="#EBEBEB" stroke-width="0.5" stroke-linecap="square" mask="url(#mask-7)"></line>
+                                            <line x1="0.203295581" y1="10.5898558" x2="11.2931514" y2="-0.5" id="Line-2-Copy-3" stroke="#EBEBEB" stroke-width="0.5" stroke-linecap="square" mask="url(#mask-7)"></line>
+                                            <line x1="2.2201677" y1="10.5898558" x2="13.3100235" y2="-0.5" id="Line-2-Copy-4" stroke="#EBEBEB" stroke-width="0.5" stroke-linecap="square" mask="url(#mask-7)"></line>
+                                            <line x1="2.1752398" y1="12.5668697" x2="13.2650956" y2="1.4770139" id="Line-2-Copy-5" stroke="#EBEBEB" stroke-width="0.5" stroke-linecap="square" mask="url(#mask-7)"></line>
+                                            <line x1="3.12169978" y1="13.7580085" x2="14.2115556" y2="2.66815268" id="Line-2-Copy-6" stroke="#EBEBEB" stroke-width="0.5" stroke-linecap="square" mask="url(#mask-7)"></line>
+                                            <line x1="4.26722048" y1="14.6347837" x2="15.3570763" y2="3.5449279" id="Line-2-Copy-7" stroke="#EBEBEB" stroke-width="0.5" stroke-linecap="square" mask="url(#mask-7)"></line>
+                                            <line x1="-2.5" y1="7.5" x2="5.5" y2="-0.5" id="Line-2-Copy" stroke="#EBEBEB" stroke-width="0.5" stroke-linecap="square" mask="url(#mask-7)"></line>
+                                        </g>
+                                    </g>
+                                    <text id="$color-brand-100" font-family="VodafoneRg-Bold, Vodafone Rg" font-size="12" font-weight="bold" fill="#FFFFFF">
+                                        <tspan x="43.9705865" y="15">$color-brand-100</tspan>
+                                    </text>
+                                    <circle id="Color-icon" stroke="#FFFFFF" fill="#E60000" cx="33.9705865" cy="11" r="5.5"></circle>
+                                    <g id="Glass" transform="translate(0.000000, 5.000000)" stroke="#000000">
+                                        <circle id="Oval-Copy" cx="6" cy="6" r="5.5"></circle>
+                                        <line x1="24" y1="6" x2="12" y2="6" id="Line"></line>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <rect id="Rectangle" fill="#428600" mask="url(#mask-2)" x="0" y="206" width="448" height="7"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

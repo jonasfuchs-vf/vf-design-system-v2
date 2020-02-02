@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280px" height="200px" viewBox="0 0 1280 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>divider-spacing</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1280" height="200"></rect>
+    </defs>
+    <g id="-----→-→-2.3.3.-Digital-Design-👩🏼‍💻" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2.3.3.5-Spacings" transform="translate(0.000000, -690.000000)">
+            <g id="divider-spacing" transform="translate(0.000000, 690.000000)">
+                <g id="Keil-26-Spitz-400-+-Group-9-+-Lorem-ipsum-dolor-si-+-Lorem-ipsum-dolor-si-Mask">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#EBEBEB" xlink:href="#path-1"></use>
+                    <g id="$spacing-200" mask="url(#mask-2)">
+                        <g transform="translate(1022.000000, 122.000000) rotate(-270.000000) translate(-1022.000000, -122.000000) translate(1006.000000, 106.000000)" id="Design-Tokens/Spacings/32px---gutter-doubled">
+                            <g>
+                                <rect id="gutter-doubled-(32px)" fill="#FECB00" x="0" y="0" width="32" height="32"></rect>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="$spacing-400" mask="url(#mask-2)">
+                        <g transform="translate(958.000000, 108.000000) rotate(-270.000000) translate(-958.000000, -108.000000) translate(926.000000, 76.000000)" id="Design-Tokens/Spacings/32px---gutter-doubled-Copy">
+                            <g>
+                                <rect id="gutter-doubled-(32px)" fill="#FECB00" x="0" y="0" width="64" height="64"></rect>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="$spacing-450" mask="url(#mask-2)">
+                        <g transform="translate(874.000000, 104.000000) rotate(-270.000000) translate(-874.000000, -104.000000) translate(838.000000, 68.000000)" id="Design-Tokens/Spacings/32px---gutter-doubled-Copy-2">
+                            <g>
+                                <rect id="gutter-doubled-(32px)" fill="#FECB00" x="0" y="0" width="72" height="72"></rect>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="$spacing-500" mask="url(#mask-2)">
+                        <g transform="translate(782.000000, 100.000000) rotate(-270.000000) translate(-782.000000, -100.000000) translate(742.000000, 60.000000)" id="Design-Tokens/Spacings/32px---gutter-doubled-Copy-3">
+                            <g>
+                                <rect id="gutter-doubled-(32px)" fill="#FECB00" x="0" y="0" width="80" height="80"></rect>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="$spacing-150" mask="url(#mask-2)">
+                        <g transform="translate(1066.000000, 124.000000) rotate(-270.000000) translate(-1066.000000, -124.000000) translate(1054.000000, 112.000000)" id="Design-Tokens/Spacings/24px---gutter-one-plus-half">
+                            <g>
+                                <rect id="$gutter-one-plus-half-(24px)" fill="#FECB00" x="0" y="0" width="24" height="24"></rect>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="$spacing-100" mask="url(#mask-2)">
+                        <g transform="translate(1102.000000, 126.000000) rotate(-270.000000) translate(-1102.000000, -126.000000) translate(1094.000000, 118.000000)" id="Design-Tokens/Spacings/16px---gutter">
+                            <g>
+                                <rect id="gutter-(16px)" fill="#FECB00" x="0" y="0" width="16" height="16"></rect>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="$spacing-75" mask="url(#mask-2)">
+                        <g transform="translate(1132.000000, 127.000000) rotate(-270.000000) translate(-1132.000000, -127.000000) translate(1126.000000, 121.000000)" id="Design-Tokens/Spacings/12px---gutter-three-quarters">
+                            <g>
+                                <g id="$spacing-75" fill="#FECB00">
+                                    <rect id="gutter-three-quarters-(12px)" x="0" y="0" width="12" height="12"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="$spacing-50" mask="url(#mask-2)">
+                        <g transform="translate(1158.000000, 128.000000) rotate(-270.000000) translate(-1158.000000, -128.000000) translate(1154.000000, 124.000000)" id="Design-Tokens/Spacings/8px---gutter-half">
+                            <g>
+                                <rect id="gutter-half-(8px)" fill="#FECB00" x="0" y="0" width="8" height="8"></rect>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="$spacing-25" mask="url(#mask-2)">
+                        <g transform="translate(1180.000000, 129.000000) rotate(-270.000000) translate(-1180.000000, -129.000000) translate(1178.000000, 127.000000)" id="Design-Tokens/Spacings/4px---gutter-quarter">
+                            <g>
+                                <rect id="gutter-quarter-(4px)" fill="#FECB00" x="0" y="0" width="4" height="4"></rect>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="$spacing-15" mask="url(#mask-2)">
+                        <g transform="translate(1199.000000, 129.000000) rotate(-270.000000) translate(-1199.000000, -129.000000) translate(1198.000000, 128.000000)" id="Design-Tokens/Spacings/4px---gutter-quarter-Copy">
+                            <g>
+                                <rect id="gutter-quarter-(4px)" fill="#FECB00" x="0" y="0" width="2" height="2"></rect>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Text-Content" mask="url(#mask-2)">
+                        <g transform="translate(176.000000, 55.000000)"></g>
+                    </g>
+                    <g id="Text-Content-200" transform="translate(176.000000, 55.000000)"></g>
+                    <g id="Text-Content-200" transform="translate(176.000000, 49.000000)" fill="#333333" font-family="VodafoneLt-Regular, Vodafone Lt" font-size="30" font-weight="normal" line-spacing="34">
+                        <text id="Our-spacing-tokens-m">
+                            <tspan x="0" y="27">Our spacing tokens make it easy to add </tspan>
+                            <tspan x="0" y="61">padding, margins, and position </tspan>
+                            <tspan x="0" y="95">coordinates. It is based on 16px.</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

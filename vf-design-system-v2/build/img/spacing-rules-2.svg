@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="928px" height="290px" viewBox="0 0 928 290" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>spacing-rules-2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="448" height="213"></rect>
+        <rect id="path-3" x="0" y="0" width="448" height="213"></rect>
+    </defs>
+    <g id="-----→-→-2.3.3.-Digital-Design-👩🏼‍💻" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2.3.3.5-Spacings" transform="translate(-176.000000, -2145.000000)">
+            <g id="spacing-rules-2" transform="translate(176.000000, 2145.000000)">
+                <g id="AB-50/50-D-c-1-cta-Copy-3" transform="translate(480.000000, 0.000000)">
+                    <text id="Don’t-use-your-own-w" font-family="VodafoneRg-Regular, Vodafone Rg" font-size="16" font-weight="normal" line-spacing="24" fill="#333333">
+                        <tspan x="68.712" y="282">Don’t use your own way to specify measurements. </tspan>
+                    </text>
+                    <text id="img" opacity="0.2" font-family="VodafoneLt-Regular, Vodafone Lt" font-size="20" font-weight="normal" line-spacing="24" fill="#666666">
+                        <tspan x="211.81" y="87.0363767">img</tspan>
+                        <tspan x="200" y="111.556396">6col </tspan>
+                        <tspan x="237" y="111.556396" font-family="VodafoneRg-Bold, Vodafone Rg" font-weight="bold">M</tspan>
+                        <tspan x="252" y="111.556396"></tspan>
+                        <tspan x="173" y="136.076416">448px x213px</tspan>
+                    </text>
+                    <text id="Don’t" font-family="VodafoneRg-Bold, Vodafone Rg" font-size="22" font-weight="bold" line-spacing="26" fill="#333333">
+                        <tspan x="198.931" y="253">Don’t</tspan>
+                    </text>
+                    <g id="Img" transform="translate(0.000000, 0.004089)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#EBEBEB" xlink:href="#path-1"></use>
+                        <rect id="Rectangle" fill="#FFFFFF" mask="url(#mask-2)" x="110" y="91.9959112" width="232" height="30"></rect>
+                        <rect id="Rectangle-Copy-14" fill="#FFFFFF" mask="url(#mask-2)" x="374" y="91.9959112" width="232" height="30"></rect>
+                        <rect id="Rectangle-Copy-15" fill="#FFFFFF" mask="url(#mask-2)" x="-154" y="91.9959112" width="232" height="30"></rect>
+                        <text id="Element" mask="url(#mask-2)" font-family="VodafoneRg-Bold, Vodafone Rg" font-size="18" font-weight="bold" fill="#333333">
+                            <tspan x="194" y="112.995911">Element</tspan>
+                        </text>
+                        <rect id="Rectangle" fill="#E60000" mask="url(#mask-2)" x="0" y="206" width="448" height="7"></rect>
+                    </g>
+                </g>
+                <g id="AB-50/50-D-c-1-cta-Copy-4">
+                    <text id="We-have-predefined-l" font-family="VodafoneRg-Regular, Vodafone Rg" font-size="16" font-weight="normal" line-spacing="24" fill="#333333">
+                        <tspan x="6.824" y="282">We have predefined labels for the measurements in the specifications. </tspan>
+                    </text>
+                    <text id="img" opacity="0.2" font-family="VodafoneLt-Regular, Vodafone Lt" font-size="20" font-weight="normal" line-spacing="24" fill="#666666">
+                        <tspan x="211.81" y="87.0363767">img</tspan>
+                        <tspan x="200" y="111.556396">6col </tspan>
+                        <tspan x="237" y="111.556396" font-family="VodafoneRg-Bold, Vodafone Rg" font-weight="bold">M</tspan>
+                        <tspan x="252" y="111.556396"></tspan>
+                        <tspan x="173" y="136.076416">448px x213px</tspan>
+                    </text>
+                    <text id="Do" font-family="VodafoneRg-Bold, Vodafone Rg" font-size="22" font-weight="bold" line-spacing="26" fill="#333333">
+                        <tspan x="211.284" y="253">Do</tspan>
+                    </text>
+                    <g id="Img" transform="translate(0.000000, 0.004089)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="Mask" fill="#EBEBEB" xlink:href="#path-3"></use>
+                        <rect id="Rectangle" fill="#FFFFFF" mask="url(#mask-4)" x="108" y="91.9959112" width="232" height="30"></rect>
+                        <rect id="Rectangle-Copy-14" fill="#FFFFFF" mask="url(#mask-4)" x="372" y="91.9959112" width="232" height="30"></rect>
+                        <rect id="Rectangle-Copy-15" fill="#FFFFFF" mask="url(#mask-4)" x="-156" y="91.9959112" width="232" height="30"></rect>
+                        <g id="label-spacing-horizontal-bottom-$gutter-doubled" mask="url(#mask-4)">
+                            <g transform="translate(323.500000, 76.995911)">
+                                <g>
+                                    <rect id="Rectangle" fill="#FECB00" transform="translate(48.000000, 30.742641) rotate(90.000000) translate(-48.000000, -30.742641) " x="45.5" y="30.2426407" width="5" height="1"></rect>
+                                    <rect id="Rectangle" fill="#FECB00" transform="translate(17.000000, 30.742641) rotate(90.000000) translate(-17.000000, -30.742641) " x="14.5" y="30.2426407" width="5" height="1"></rect>
+                                    <rect id="Rectangle" fill="#FECB00" transform="translate(32.500000, 30.742641) rotate(90.000000) translate(-32.500000, -30.742641) " x="32" y="14.7426407" width="1" height="32"></rect>
+                                    <rect id="Rectangle" fill="#FECB00" x="0" y="0" width="66" height="22"></rect>
+                                    <text id="$space-200" font-family="VodafoneRg-Bold, Vodafone Rg" font-size="12" font-weight="bold" fill="#007C92">
+                                        <tspan x="4" y="15">$space-200</tspan>
+                                    </text>
+                                    <rect id="Rectangle" fill="#FECB00" transform="translate(32.500000, 22.000000) rotate(-45.000000) translate(-32.500000, -22.000000) " x="29.5" y="19" width="6" height="6"></rect>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="label-spacing-horizontal-bottom-$gutter-doubled-copy" mask="url(#mask-4)">
+                            <g transform="translate(59.500000, 76.995911)" id="label-spacing-horizontal-bottom-$gutter-doubled">
+                                <g>
+                                    <rect id="Rectangle" fill="#FECB00" transform="translate(48.000000, 30.742641) rotate(90.000000) translate(-48.000000, -30.742641) " x="45.5" y="30.2426407" width="5" height="1"></rect>
+                                    <rect id="Rectangle" fill="#FECB00" transform="translate(17.000000, 30.742641) rotate(90.000000) translate(-17.000000, -30.742641) " x="14.5" y="30.2426407" width="5" height="1"></rect>
+                                    <rect id="Rectangle" fill="#FECB00" transform="translate(32.500000, 30.742641) rotate(90.000000) translate(-32.500000, -30.742641) " x="32" y="14.7426407" width="1" height="32"></rect>
+                                    <rect id="Rectangle" fill="#FECB00" x="0" y="0" width="66" height="22"></rect>
+                                    <text id="$space-200" font-family="VodafoneRg-Bold, Vodafone Rg" font-size="12" font-weight="bold" fill="#007C92">
+                                        <tspan x="4" y="15">$space-200</tspan>
+                                    </text>
+                                    <rect id="Rectangle" fill="#FECB00" transform="translate(32.500000, 22.000000) rotate(-45.000000) translate(-32.500000, -22.000000) " x="29.5" y="19" width="6" height="6"></rect>
+                                </g>
+                            </g>
+                        </g>
+                        <text id="Element" mask="url(#mask-4)" font-family="VodafoneRg-Bold, Vodafone Rg" font-size="18" font-weight="bold" fill="#333333">
+                            <tspan x="192" y="112.995911">Element</tspan>
+                        </text>
+                        <rect id="Rectangle" fill="#428600" mask="url(#mask-4)" x="0" y="206" width="448" height="7"></rect>
+                    </g>
+                </g>
+                <g id="HORIZONTAL#0B64025E-9AC7-4FE0-B2DA-B595E738D9D2#3BE8589E-895B-4697-BCF9-7CF2FA4551B3" transform="translate(556.000000, 79.000000)">
+                    <rect id="ruler-start" fill="#EB9700" x="2" y="26" width="1" height="5"></rect>
+                    <rect id="ruler-end" fill="#EB9700" x="33" y="26" width="1" height="5"></rect>
+                    <rect id="ruler-line" fill="#EB9700" x="2" y="28" width="32" height="1"></rect>
+                    <rect id="label-arrow" fill="#EB9700" transform="translate(18.000000, 21.000000) rotate(-45.000000) translate(-18.000000, -21.000000) " x="15" y="18" width="6" height="6"></rect>
+                    <rect id="label-box" fill="#EB9700" x="0" y="0" width="35" height="22" rx="2"></rect>
+                    <text id="label-text" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="4.162" y="15">32px</tspan>
+                    </text>
+                </g>
+                <g id="HORIZONTAL#0B64025E-9AC7-4FE0-B2DA-B595E738D9D2#3BE8589E-895B-4697-BCF9-7CF2FA4551B3-Copy" transform="translate(820.000000, 79.000000)">
+                    <rect id="ruler-start" fill="#EB9700" x="2" y="26" width="1" height="5"></rect>
+                    <rect id="ruler-end" fill="#EB9700" x="33" y="26" width="1" height="5"></rect>
+                    <rect id="ruler-line" fill="#EB9700" x="2" y="28" width="32" height="1"></rect>
+                    <rect id="label-arrow" fill="#EB9700" transform="translate(18.000000, 21.000000) rotate(-45.000000) translate(-18.000000, -21.000000) " x="15" y="18" width="6" height="6"></rect>
+                    <rect id="label-box" fill="#EB9700" x="0" y="0" width="35" height="22" rx="2"></rect>
+                    <text id="label-text" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="4.162" y="15">32px</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="448px" height="213px" viewBox="0 0 448 213" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>color-rule-3-dont</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="-0.0040887532" width="448" height="213"></rect>
+    </defs>
+    <g id="-----→-→-2.3.3.-Digital-Design-👩🏼‍💻" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2.3.3.2-Colors" transform="translate(-656.000000, -2752.000000)">
+            <g id="color-rule-3-dont" transform="translate(656.000000, 2752.004089)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#EBEBEB" xlink:href="#path-1"></use>
+                <circle id="Color-icon" stroke="#FFFFFF" stroke-width="1.5" fill="#00B0CA" mask="url(#mask-2)" cx="64" cy="102.995911" r="23.25"></circle>
+                <circle id="Color-icon" stroke="#FFFFFF" stroke-width="1.5" fill="#E60000" mask="url(#mask-2)" cx="128" cy="102.995911" r="23.25"></circle>
+                <circle id="Color-icon-Copy-26" stroke="#FFFFFF" stroke-width="1.5" fill="#FECB00" mask="url(#mask-2)" cx="192" cy="102.995911" r="23.25"></circle>
+                <circle id="Color-icon-Copy-7" fill="#333333" mask="url(#mask-2)" cx="128" cy="102.995911" r="8"></circle>
+                <circle id="Color-icon-Copy-27" fill="#FFFFFF" mask="url(#mask-2)" cx="192" cy="102.995911" r="8"></circle>
+                <circle id="Color-icon-Copy-24" stroke="#FFFFFF" stroke-width="1.5" fill="#00B0CA" mask="url(#mask-2)" cx="256" cy="102.995911" r="23.25"></circle>
+                <circle id="Color-icon-Copy-28" stroke="#FFFFFF" stroke-width="1.5" fill="#EBEBEB" mask="url(#mask-2)" cx="320" cy="102.995911" r="23.25"></circle>
+                <circle id="Color-icon-Copy-30" stroke="#FFFFFF" stroke-width="1.5" fill="#999999" mask="url(#mask-2)" cx="384" cy="102.995911" r="23.25"></circle>
+                <circle id="Color-icon-Copy-12" fill="#E60000" mask="url(#mask-2)" cx="64" cy="102.995911" r="8"></circle>
+                <circle id="Color-icon-Copy-25" fill="#007C92" mask="url(#mask-2)" cx="256" cy="102.995911" r="8"></circle>
+                <circle id="Color-icon-Copy-29" fill="#FFFFFF" mask="url(#mask-2)" cx="320" cy="102.995911" r="8"></circle>
+                <circle id="Color-icon-Copy-31" fill="#333333" mask="url(#mask-2)" cx="384" cy="102.995911" r="8"></circle>
+                <rect id="Rectangle" fill="#E60000" mask="url(#mask-2)" x="0" y="206" width="448" height="7"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="448px" height="213px" viewBox="0 0 448 213" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>padding-img</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="-0.0040887532" width="448" height="213"></rect>
+        <rect id="path-3" x="48" y="31.9959112" width="352" height="150"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="352" height="150" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="-----→-→-2.3.3.-Digital-Design-👩🏼‍💻" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2.3.3.5-Spacings" transform="translate(-176.000000, -954.000000)">
+            <g id="padding-img" transform="translate(176.000000, 954.004089)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#EBEBEB" xlink:href="#path-1"></use>
+                <g id="Rectangle" stroke-dasharray="1,1" mask="url(#mask-2)" stroke="#979797" stroke-width="2">
+                    <use mask="url(#mask-4)" xlink:href="#path-3"></use>
+                </g>
+                <rect id="Rectangle" fill="#FECB00" mask="url(#mask-2)" x="78" y="61.9959112" width="292" height="90"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" mask="url(#mask-2)" x="108" y="92" width="232" height="30"></rect>
+                <text id="Element" mask="url(#mask-2)" font-family="VodafoneRg-Bold, Vodafone Rg" font-size="18" font-weight="bold" fill="#333333">
+                    <tspan x="192" y="113">Element</tspan>
+                </text>
+                <text id="Padding" mask="url(#mask-2)" font-family="VodafoneRg-Bold, Vodafone Rg" font-size="18" font-weight="bold" fill="#333333">
+                    <tspan x="192" y="82.9959112">Padding</tspan>
+                </text>
+                <text id="Border" mask="url(#mask-2)" font-family="VodafoneLt-Regular, Vodafone Lt" font-size="18" font-weight="normal" fill="#666666">
+                    <tspan x="192" y="52.9959112">Border</tspan>
+                </text>
+                <text id="Margin" mask="url(#mask-2)" font-family="VodafoneLt-Regular, Vodafone Lt" font-size="18" font-weight="normal" fill="#666666">
+                    <tspan x="192" y="21.9959112">Margin</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

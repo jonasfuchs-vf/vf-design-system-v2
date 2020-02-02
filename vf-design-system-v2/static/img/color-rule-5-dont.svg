@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="448px" height="213px" viewBox="0 0 448 213" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>color-rule-5-dont</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="-0.0040887532" width="448" height="213"></rect>
+    </defs>
+    <g id="-----→-→-2.3.3.-Digital-Design-👩🏼‍💻" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2.3.3.2-Colors" transform="translate(-656.000000, -3448.000000)">
+            <g id="color-rule-5-dont" transform="translate(656.000000, 3448.004089)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#EBEBEB" xlink:href="#path-1"></use>
+                <text id="#e6000" mask="url(#mask-2)" font-family="VodafoneRg-Regular, Vodafone Rg" font-size="16" font-weight="normal" fill="#EB9700">
+                    <tspan x="329.224" y="72.9959112">#e6000</tspan>
+                </text>
+                <g id="Group-5" mask="url(#mask-2)">
+                    <g transform="translate(151.000000, 19.995911)">
+                        <rect id="Rectangle" stroke="none" fill="#E60000" x="0" y="0" width="146" height="40"></rect>
+                        <rect id="Rectangle-Copy-32" stroke="none" fill="#333333" x="0" y="141.995911" width="146" height="24"></rect>
+                        <rect id="Rectangle-Copy-31" stroke="none" fill="#FFFFFF" x="0" y="41.9959112" width="146" height="98"></rect>
+                        <rect id="Rectangle-Copy-33" stroke="none" fill="#FFFFFF" x="26" y="15" width="94" height="3"></rect>
+                        <rect id="Rectangle-Copy-35" stroke="none" fill="#E60000" x="38" y="46.9959112" width="69" height="3"></rect>
+                        <rect id="Rectangle" stroke="none" fill="#EBEBEB" x="23" y="56" width="47" height="19"></rect>
+                        <rect id="Rectangle-Copy-39" stroke="none" fill="#EBEBEB" x="76" y="56" width="47" height="19"></rect>
+                        <rect id="Rectangle-Copy-43" stroke="none" fill="#007C92" x="90" y="72.9959112" width="20" height="3"></rect>
+                        <rect id="Rectangle-Copy-34" stroke="none" fill="#FFFFFF" x="26" y="21.9959112" width="53" height="3"></rect>
+                        <rect id="Rectangle-Copy-44" stroke="none" fill="#820000" x="0" y="103.995911" width="146" height="16"></rect>
+                        <rect id="Rectangle-Copy-36" stroke="none" fill="#333333" x="23" y="79" width="47" height="3"></rect>
+                        <rect id="Rectangle-Copy-45" stroke="none" fill="#333333" x="23" y="124.995911" width="89" height="3"></rect>
+                        <rect id="Rectangle-Copy-40" stroke="none" fill="#333333" x="76" y="79" width="47" height="3"></rect>
+                        <rect id="Rectangle-Copy-37" stroke="none" fill="#333333" x="32" y="86" width="30" height="3"></rect>
+                        <rect id="Rectangle-Copy-46" stroke="none" fill="#333333" x="23" y="131.995911" width="57" height="3"></rect>
+                        <rect id="Rectangle-Copy-41" stroke="none" fill="#333333" x="85" y="86" width="30" height="3"></rect>
+                        <rect id="Rectangle-Copy-38" stroke="#333333" stroke-width="1" fill="#FFFFFF" x="37" y="93" width="20" height="5"></rect>
+                        <rect id="Rectangle-Copy-42" stroke="#333333" stroke-width="1" fill="#FFFFFF" x="90" y="93" width="20" height="5"></rect>
+                    </g>
+                </g>
+                <path id="Line-3" d="M272.505838,63.5069554 L272.5,67.507 L324.171189,67.574065 L324.671189,67.5747144 L324.66989,68.5747136 L324.169891,68.5740641 L272.499,68.507 L272.494148,72.5069478 L263.5,67.9952618 L272.505838,63.5069554 Z" fill="#EB9700" fill-rule="nonzero"></path>
+                <rect id="Rectangle" fill="#E60000" mask="url(#mask-2)" x="0" y="206" width="448" height="7"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

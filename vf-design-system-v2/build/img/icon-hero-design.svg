@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="192px" height="192px" viewBox="0 0 192 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>design-hero</title>
+    <desc>Created with Sketch.</desc>
+    <g id="design-hero" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="prepare-mid" transform="translate(21.000000, 26.000000)">
+            <rect id="Rectangle" stroke="#666666" stroke-width="4" stroke-linejoin="round" transform="translate(84.610958, 79.363223) rotate(-45.000000) translate(-84.610958, -79.363223) " x="72.4109583" y="3.3832233" width="24.4" height="151.96" rx="6.77"></rect>
+            <line x1="70.25" y1="0.5" x2="70.25" y2="17.25" id="Path" stroke="#666666" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></line>
+            <line x1="62" y1="8.87" x2="78.5" y2="8.87" id="Path" stroke="#666666" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></line>
+            <line x1="34.06" y1="77.4" x2="34.06" y2="109" id="Path" stroke="#666666" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></line>
+            <line x1="18.5" y1="93.2" x2="49.62" y2="93.2" id="Path" stroke="#666666" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></line>
+            <circle id="Oval" stroke="#E60000" stroke-width="4.05" stroke-linecap="round" cx="107.89" cy="33" r="20"></circle>
+            <circle id="Oval" fill="#666666" fill-rule="nonzero" cx="140.16" cy="14.87" r="4"></circle>
+            <circle id="Oval" fill="#666666" fill-rule="nonzero" cx="12" cy="47" r="4"></circle>
+            <circle id="Oval" fill="#E60000" fill-rule="nonzero" cx="8" cy="18.87" r="8"></circle>
+            <circle id="Oval" fill="#666666" fill-rule="nonzero" cx="59.87" cy="118.87" r="4"></circle>
+            <line x1="68.15" y1="44.65" x2="49.52" y2="63.28" id="Path" stroke="#666666" stroke-width="4" stroke-linejoin="round"></line>
+            <line x1="118.9" y1="95.87" x2="100.74" y2="114.03" id="Path" stroke="#666666" stroke-width="4" stroke-linejoin="round"></line>
+        </g>
+    </g>
+</svg>

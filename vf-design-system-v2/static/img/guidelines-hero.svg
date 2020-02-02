@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="192px" height="192px" viewBox="0 0 192 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>guidelines-hero</title>
+    <desc>Created with Sketch.</desc>
+    <g id="guidelines-hero" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <g id="reports-mid">
+                <g id="a92cda47-1af5-466c-8271-2cbb887b0f9e">
+                    <g id="9f78a051-5de2-4989-a583-372466c9ad1f">
+                        <g id="8431ea22-0ea2-4eb5-b4bf-eaf8b49c35b5">
+                            <rect id="Rectangle-path" x="0" y="0" width="192" height="192"></rect>
+                            <g id="1ae6c864-93be-47d5-99c3-9c7655ea5f76" transform="translate(34.000000, 18.000000)" stroke-linejoin="round" stroke-width="4">
+                                <line x1="26" y1="52" x2="74" y2="52" id="Shape" stroke="#E60000" stroke-linecap="round"></line>
+                                <line x1="26" y1="76" x2="74" y2="76" id="Shape" stroke="#666666" stroke-linecap="round"></line>
+                                <line x1="26" y1="100" x2="74" y2="100" id="Shape" stroke="#666666" stroke-linecap="round"></line>
+                                <line x1="26" y1="124" x2="74" y2="124" id="Shape" stroke="#666666" stroke-linecap="round"></line>
+                                <path d="M0,144 L0,28 C0,21.372583 5.372583,16 12,16 L88,16 C94.627417,16 100,21.372583 100,28 L100,144 C100,150.627417 94.627417,156 88,156 L12,156 C5.372583,156 0,150.627417 0,144 Z" id="Shape" stroke="#666666" stroke-linecap="round"></path>
+                                <path d="M24,16 L24,12.35 C24.0440492,5.4889694 29.6389376,-0.0387803422 36.5,-0.000202807521 L111.5,-0.000202807521 C118.361062,-0.0387803422 123.955951,5.4889694 124,12.35 L124,127.65 C123.955951,134.511031 118.361062,140.03878 111.5,140.000203 L100,140.000203" id="Shape" stroke="#666666"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

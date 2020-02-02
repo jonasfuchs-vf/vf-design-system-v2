@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="192px" height="192px" viewBox="0 0 192 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>pattern-library-hero</title>
+    <desc>Created with Sketch.</desc>
+    <g id="pattern-library-hero" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <g id="apps-mid">
+                <g id="96993650-6e8b-4b02-9d76-6741bc564798">
+                    <g id="aedf3808-746e-470f-ab78-dfb2d29027b9">
+                        <g id="af911212-839d-401f-8aa9-4c9f8a249486">
+                            <path d="M83.06,149.91 L44.94,149.91 C42.4973439,150.027277 40.1783845,148.829657 38.86,146.77 C37.6682109,144.656753 37.7218655,142.06217 39,140 L58.11,103.88 C59.1505737,101.622536 61.4092534,100.176585 63.895,100.176585 C66.3807466,100.176585 68.6394263,101.622536 69.68,103.88 L89,140 C90.2851972,142.062788 90.3427105,144.662391 89.15,146.78 C87.8273533,148.839038 85.5041535,150.033063 83.06,149.91 L83.06,149.91 Z" id="ed35ff03-a0a7-43d1-9e0f-3ba671caddc2" stroke="#666666" stroke-width="4" stroke-linecap="round"></path>
+                            <path d="M64,86 C51.8497355,86 42,76.1502645 42,64 C42,51.8497355 51.8497355,42 64,42 C76.1502645,42 86,51.8497355 86,64 C86,69.8347628 83.6821495,75.4305489 79.5563492,79.5563492 C75.4305489,83.6821495 69.8347628,86 64,86 Z" id="2822f57a-ad91-475d-8ea4-a5efe69551b3" stroke="#666666" stroke-width="4" stroke-linecap="round"></path>
+                            <polygon id="Shape" stroke="#E60000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="128 98 154 119 143.3 150 112.7 150 102 119"></polygon>
+                            <rect id="Rectangle-path" x="0" y="0" width="192" height="192"></rect>
+                            <rect id="Rectangle-path" stroke="#666666" stroke-width="4" stroke-linecap="round" x="106" y="42" width="44" height="44" rx="8.89"></rect>
+                            <rect id="Rectangle-path" stroke="#666666" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" x="22" y="22" width="148" height="148" rx="20"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
