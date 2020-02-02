@@ -77,6 +77,7 @@ function Home() {
         <div className="container-hero-primary">
           <img src="img/hero-img-start.svg" alt="Vodafone Design System"></img>
           <h1 className="hero__title">{siteConfig.tagline}</h1>
+          <h2>Say hello to Brix</h2>
           <div class="container"><p class="text-large">Every digital brand has its own visual language. And like spoken languages our visual language is changing constantly over time. 
 In the same way that a new generation develops a different manner of choosing words to express themselves, so does our design system. Different visual generations are coexisting for a certain amount of time until some are being replaced by more recent ones. 
 
