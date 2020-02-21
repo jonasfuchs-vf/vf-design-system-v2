@@ -253,7 +253,9 @@ transition: all ease 0.3s;
 
 a.link-teaser {text-decoration: none;}
 
-
+ .menu .menu__list-item-hidden {
+  display: none;
+}
 
 
 .button__text {vertical-align: middle;}
